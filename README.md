@@ -36,7 +36,9 @@ Contains sensory evaluation scores (Total Cup Points, Flavor, Aroma, etc.) along
 - **Ethiopian** coffee dominates both in quality (top average *Total Cup Points*) and production volume (though heavily influenced by one company, *yhaenu plc*).
 - **Washed** is the most common processing method (~60% of samples), but no statistically significant difference in *Flavor* was found across processing methods.
 
----
+## Interactive Dashboard
+
+Explore the interactive dashboard for this project on [Looker Studio](https://lookerstudio.google.com/s/hXu661SlnJU).
 
 ## Statistical Analysis
 
